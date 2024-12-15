@@ -37,6 +37,21 @@ Before setting up the project, ensure that you have the following installed on y
 ### Steps to Set Up the Project:
 
 1. **Clone the Repository:**
-   First, clone this repository to your local machine using the following command:
-   ```bash
-   git clone https://github.com/yourusername/quickrent.git
+   First, clone this repository to your local machine
+2.**Navigate to the Project Directory: **
+   After cloning, navigate to the project folder
+3.**Open the Project in a Browser:**
+   Since this is a static website, you can directly open the index.html file in any modern browser.
+
+###Schreenshots######
+1.![Screenshot 2024-12-15 145212](https://github.com/user-attachments/assets/f86dc517-3ad0-4386-9094-70ff7f2393d1)
+2.![Screenshot 2024-12-15 145225](https://github.com/user-attachments/assets/a75fb153-3a3f-4341-a264-ea1f4758f399)
+3.![Screenshot 2024-12-15 145246](https://github.com/user-attachments/assets/eeead960-7fda-4e94-9177-e15e577ffbfa)
+4.![Screenshot 2024-12-15 145300](https://github.com/user-attachments/assets/ed9e9ca8-4e25-4374-bb04-53df6be67869)
+5.![Screenshot 2024-12-15 145313](https://github.com/user-attachments/assets/85c9d4a7-3c6f-44a1-8eae-814399b181f4)
+6.![Screenshot 2024-12-15 145323](https://github.com/user-attachments/assets/832d8873-94fa-463c-8d95-94242bdaecb6)
+
+###Web Site Link:###
+
+
+
