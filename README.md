@@ -2,6 +2,8 @@
 
 QuickRent is an online platform that allows users to rent gadgets with ease. It offers a wide range of gadgets, from laptops to gaming consoles, with competitive pricing and quick delivery. Users can explore available gadgets, compare rental plans, sign up, and contact the company for inquiries. The website also allows users to list their own gadgets for rent, making it a comprehensive platform for gadget rentals.
 
+## Website Link:
+
 ## Approach
 
 The project utilizes modern web development technologies to create an interactive and user-friendly gadget rental platform. The key features include:
@@ -43,7 +45,8 @@ Before setting up the project, ensure that you have the following installed on y
 3.**Open the Project in a Browser:**
    Since this is a static website, you can directly open the index.html file in any modern browser.
 
-###Schreenshots######
+### Screen Shots:
+
 1.![Screenshot 2024-12-15 145212](https://github.com/user-attachments/assets/f86dc517-3ad0-4386-9094-70ff7f2393d1)
 2.![Screenshot 2024-12-15 145225](https://github.com/user-attachments/assets/a75fb153-3a3f-4341-a264-ea1f4758f399)
 3.![Screenshot 2024-12-15 145246](https://github.com/user-attachments/assets/eeead960-7fda-4e94-9177-e15e577ffbfa)
@@ -51,7 +54,7 @@ Before setting up the project, ensure that you have the following installed on y
 5.![Screenshot 2024-12-15 145313](https://github.com/user-attachments/assets/85c9d4a7-3c6f-44a1-8eae-814399b181f4)
 6.![Screenshot 2024-12-15 145323](https://github.com/user-attachments/assets/832d8873-94fa-463c-8d95-94242bdaecb6)
 
-###Web Site Link:###
+
 
 
 
