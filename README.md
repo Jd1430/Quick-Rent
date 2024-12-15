@@ -1,4 +1,4 @@
-# QuickRent - Rent Gadgets with Ease
+# QuickRent - Rent Gadgets 
 
 QuickRent is an online platform that allows users to rent gadgets with ease. It offers a wide range of gadgets, from laptops to gaming consoles, with competitive pricing and quick delivery. Users can explore available gadgets, compare rental plans, sign up, and contact the company for inquiries. The website also allows users to list their own gadgets for rent, making it a comprehensive platform for gadget rentals.
 
